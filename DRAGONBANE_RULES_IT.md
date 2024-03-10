@@ -288,6 +288,10 @@ Si può sparare oltre una persona che sta in mezzo, ma con svantaggio.
 
 Danno = dadi dell'arma - armor rating
 
+### Tipi di danno e armatura
+- Armatura di pelle: +2 contro impatto
+- Chainmail: +2 contro taglio
+
 ## Morte
 
 - A 0HP vai ko e rischi di morire.
