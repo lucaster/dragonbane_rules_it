@@ -255,6 +255,7 @@ Spinta: se colpisci e la tua STR è maggiore di quella del bersaglio, puoi sping
 - tipo opposto: la tua arma contro schivata dell'avversario
 - se l'arma ha il tratto *sbilanciare* (toppling), tiri con vantaggio
 - l'attacco non può essere parato nè schivato
+- contro un mostro quadrupede, il tiro ha svantaggio
 
 ### Disarmare
 - tiro opposto delle armi
@@ -345,6 +346,7 @@ La ferita guarisce al doppio della velocità se almeno una volta al giorno si ri
 - Non si può fare azione Scatto
 - Non si può colpire a distanza
 - Per i colpi in mischia bisogna passare PERCEZIONE
+- i mostri vedono nell'oscurità
 #### Torce e Lanterne
 - Illuminano un raggio di 10 metri
 - Si accendono con un'azione con l'acciarino o con BUSHCRAFT spendendo uno stretch
@@ -475,3 +477,12 @@ Tabella a Pag. 60
 - **Grimorio**. Come per l'insegnante, ma tiri contro LINGUAGGI invece che INT
 - Imparare i **trucchetti** richiede solo 1 stretch invece che 1 shift.
 - Per imparare **altre scuole**: abilità eroica Talento Magico e 1 settimana con l'insegnante; alla fine tira INT. La scuola avrà la Base Chance (non * 2). Anche le altre classi possono imparare la magia in questo modo.
+
+# Nemici, Mostri, NPC
+Ci sono due tipi di nemici: Mostri e NPC
+- i mostri possono schivare ma non parare
+- la schivata consuma un'azione
+- gli NPC possono schivare e parare
+- default 15 per SCHIVATA e PARATA
+- i mostri vedono nell'oscurità
+- i mostri sono immuni alla PERSUASIONE
