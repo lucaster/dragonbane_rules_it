@@ -410,3 +410,64 @@ La ferita guarisce al doppio della velocità se almeno una volta al giorno si ri
 - non si può dormire in armatura
 - dopo 3 shift senza dormire non èuoi recuperare WP o condizioni. poi perdi D6 WP ogni shift senza dormire.
 - quando arrivi a o WP, collassi e dormi per almeno 1 shift
+
+# Cavalcare
+- tutti in generale sanno cavalcare
+- a cavallo si viaggia al doppio (30km per shift)
+- per il combattimento si usa il minimo tra RIDING e l'abilità dell'arma
+- RIDING rimpiazza SCHIVATA
+- senza sella, tutti i tiri hanno svantaggio
+- attacchi in mischia da terra verso il cavaliere hanno svantaggio
+
+# Magia
+
+Scuole di magia:
+- Animismo
+- Elementalismo
+- Mentalismo
+- Generale
+
+Alla creazione, il mago sceglie una scuola come Abilità Allenata tra Animismo, Elementalismo e Mentalismo e la segna nelle Abilità Secondarie.
+
+La scuola Generale è utilizzabile da tutti
+
+## Incantesimi
+- Alla creazione, il mago ottiene 3 trucchetti e 3 incantesimi di rango 1 scelti tra la scuola scelta e la scuola Generale.
+- Ogni incantesimo ha un Rango AKA Power Level
+- Numero di incantesimi Preparati = Base Chance INT
+- Preparare gli incantesimi prende 1 shift
+- Registrare un incantesimo nel grimorio prende 1 shift.
+- Lanciare incantesimi non preparati direttamente dal grimorio costa il doppio del tempo
+
+### Lanciare incantesimi
+- tirare contro lo skill level della scuola e spendere WP
+- i trucchetti costano 1 WP
+- i normali incantesimi costano 2 WP * Power Level
+- se hai 0 WP, puoi lanciare un dado di tua scelta per convertire HP in WP prima di lanciare l'incantesimo
+- non puoi lanciare incantesimi se indossi armatura di metallo o impugni armi di metallo
+- lanciare un incantesimo di solito costa 1 azione
+- gli incantesimi di reazione non rimpiazzano l'azione
+
+### Concentrazione
+- cessa se esegui 1 azione, prendi danno, fallisci tiro paura
+- se disturbato (e.g. suoni, solletico), tira WIL
+
+### Successo Critico
+Scegliere tra:
+- danno raddoppiato
+- raggio raddoppiato
+- non si spendono WP
+- pui lanciare subito un altro incantesimo con svantaggio
+
+### Fallimento Critico
+Tabella a Pag. 60
+
+### Oggetti Magici
+- per identificare tirare LINGUAGGI
+- gli incantesimi negli oggetti consumano WP
+
+## Imparare Magie
+- **Insegnante**. Spendere 1 shift. Incantesimo utilizzabile dalla sessione successiva. Occorre poi spendere un Segno di Avanzamento e tirare INT con vantaggio. Se fallisci, non lo impari.
+- **Grimorio**. Come per l'insegnante, ma tiri contro LINGUAGGI invece che INT
+- Imparare i **trucchetti** richiede solo 1 stretch invece che 1 shift.
+- Per imparare **altre scuole**: abilità eroica Talento Magico e 1 settimana con l'insegnante; alla fine tira INT. La scuola avrà la Base Chance (non * 2). Anche le altre classi possono imparare la magia in questo modo.
