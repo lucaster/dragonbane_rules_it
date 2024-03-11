@@ -37,6 +37,7 @@ Tabella a Pag. 26
 
 ## Memento
 Tabella a Pag. 27
+
 Utilizzabile una volta a sessione per recuperare da una Condizione durante uno Stretch Rest.
 
 ### Aspetto
@@ -82,10 +83,12 @@ Puoi rifare la prova, ma prendi una Condizione.
 
 ### Secondary Skill
 Al momento sono solamente le le scuole di magia del core set.
+
 Per il Mago, la scuola di magia scelta diventa una Abilità Allenata.
 
 ## Abilità Eroiche
 Determinate dalla Classe.
+
 Il Mago, al posto dell'Abilità Eroica, ha la scuola di magia.
 
 # Ingombro
@@ -107,6 +110,7 @@ Armi alla Mano: max 3
   - etc.
 
 Ingombro eccessivo -> prova di STR per muoverti durante il combattimento altrimenti resti fermo.
+
 Trasportare una persona -> Ingombro eccessivo
 
 # Esperienza
@@ -187,8 +191,8 @@ Le reazioni consumano l'azionee vice versa.
 - Schivata
 
 ### Attacco Furtivo
-- non si può fare in combattimento
-1. fare tiro FURTIVITA'.
+Non si può fare in combattimento
+1. Come fare tiro FURTIVITA'.
    - Se lo fai avvicinandoti per un attacco in mischia, il tiro ha Svantaggio.
    - Se fallisci, si tira iniziativa
    - Se riesci:
