@@ -252,24 +252,24 @@ Spinta: se colpisci e la tua STR è maggiore di quella del bersaglio, puoi sping
 
 ### Sbilanciare
 - fai cadere prono l'avversario
-- tipo opposto: la tua arma contro schivata dell'avversario
+- tiro contrapposto: la tua arma contro schivata dell'avversario
 - se l'arma ha il tratto *sbilanciare* (toppling), tiri con vantaggio
 - l'attacco non può essere parato nè schivato
 - contro un mostro quadrupede, il tiro ha svantaggio
 
 ### Disarmare
-- tiro opposto delle armi
+- tiro contrapposto delle armi
 - l'attacco non può essere parato nè schivato
 - se il bersaglio impugna l'arma a due mani, il tuo tiro ha svantaggio
 - se hai successo, l'arma del bersaglio cade a D6 metri in una direzione di tua scelta
 - non funziona contro scudi o armi naturali
 
 ### Afferrare
-- tiro opposto di BRAWLING
+- tiro contrapposto di BRAWLING
 - l'attacco non può essere parato nè schivato
 - se fallisci, cadi a terra
 - se riesci, cadete entrambi a terra e il nemico è afferrato
-- finchè è afferrato, l'unica azione che può fare e tentare di liberarsi, sempre con tiro opposto di BRAWLING
+- finchè è afferrato, l'unica azione che può fare e tentare di liberarsi, sempre con tiro contrapposto di BRAWLING
 
 ## Combattimento a Distanza
 
@@ -361,7 +361,7 @@ La ferita guarisce al doppio della velocità se almeno una volta al giorno si ri
 
 ### Veleno
 - Potenza del veleno: 9, 12, 15
-- tirare CON per vedere se si subisce gli effetti del veleno
+- tiro contrapposto CON vs Potenza del veleno per vedere se si subisce gli effetti del veleno
   - successo -> effetto limitato
   - fallimento -> effetto pieno
 - NPC: tirano contro 2 * max HP - 2 * livello di Abilità Eroica Robusto
