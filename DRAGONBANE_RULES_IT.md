@@ -478,7 +478,7 @@ Tabella a Pag. 60
 
 ## Imparare Magie
 - **Insegnante**. Spendere 1 shift. Incantesimo utilizzabile dalla sessione successiva. Occorre poi spendere un Segno di Avanzamento e tirare INT con vantaggio. Se fallisci, non lo impari.
-- **Grimorio**. Come per l'insegnante, ma tiri contro LINGUAGGI invece che INT
+- **Grimorio**. Imparare incantesimi da un Grimorio funziona come per l'insegnante, ma tiri contro LINGUAGGI invece che INT
 - Imparare i **trucchetti** richiede solo 1 stretch invece che 1 shift.
 - Per imparare **altre scuole**: abilità eroica Talento Magico e 1 settimana con l'insegnante; alla fine tira INT. La scuola avrà la Base Chance (non * 2). Anche le altre classi possono imparare la magia in questo modo.
 
