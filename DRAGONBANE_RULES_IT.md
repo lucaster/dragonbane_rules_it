@@ -201,7 +201,7 @@ Non si può fare in combattimento
      - la vittima non può Parare nè Schivare
    - Usare un'arma Sottile aumenta il danno di un dado
 ### Imboscata
-Ogni vittima fa un tiro PERCEZIONE. Chi fallisce prende le carte dal fondo.
+Ogni vittima fa un tiro PERCEZIONE, con Svantaggio se gli imboscati sono preparati. Chi fallisce prende le carte dal fondo.
 
 ## Terreno
 ### Ristretto
@@ -217,12 +217,12 @@ Ogni tiro per colpire *a distanza* ha Svantaggio
 
 Bersaglio prono -> Vantaggio e extra D6 danno
 
-Successo Critico:
+Successo Critico -> a scelta tra:
 - tira due volte i dadi di danno
 - secondo attacco contro un altro nemico come azione bonus
 - se arma a danno perforante: l'armatura del bersaglio non ha effetto
 
-Colpo Maldestro: tabella a Pag 46
+Colpo Maldestro -> tabella a Pag 46
 
 Spinta: se colpisci e la tua STR è maggiore di quella del bersaglio, puoi spingerlo 2 metri
 
@@ -375,7 +375,7 @@ La ferita guarisce al doppio della velocità se almeno una volta al giorno si ri
 - Effetto limitato: D6 danno al prossimo turno
 
 ### Veleno Paralizzante
-- Effetto pieno: condizione EXHAUSTED e tira CON ad ogni turno; fino a 1 stretch o antidono
+- Effetto pieno: condizione EXHAUSTED e tira CON ad ogni turno; fino a 1 stretch o antidoto
   - successo -> puoi agire quel round
   - fallimento -> non agisci quel round
 - Effetto limitato: condizione EXHAUSTED
